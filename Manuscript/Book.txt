@@ -1,0 +1,17 @@
+00_Recommendations.txt
+01_Foreword.txt
+02_Abstract.txt
+03_TrainerInstructions.txt
+
+04_Exercises.txt
+13_Feedback.txt
+14_Library.txt
+
+17_Acknowledgments.txt
+
+19_Authors.txt
+20_GameFeedback.txt
+
+21_History.txt
+22_Countries.txt
+23_License.txt
