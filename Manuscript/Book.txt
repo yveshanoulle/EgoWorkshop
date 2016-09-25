@@ -4,6 +4,7 @@
 03_TrainerInstructions.txt
 
 04_Exercises.txt
+05_ImposterSyndrome.txt
 13_Feedback.txt
 14_Library.txt
 
